@@ -1,0 +1,6 @@
+<?php
+
+
+
+echo 'Zawartosc Strony';
+; ?>
